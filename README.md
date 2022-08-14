@@ -1,4 +1,6 @@
 # Autism-image-classification
+![Original test set](https://drive.google.com/uc?export=view&id=1y0eCa6zf96n5YZgOfFPoRtpEoYs8fNS4)
+
 ## Overview
 This project amis to classify between persons autistic and non-autistic and this classification depends on their photos.<br>
 This project uses a pretrained models like efficient net and Vgg and inception model for image classification task.<br>
